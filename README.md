@@ -1,16 +1,9 @@
 # Comprovantes
 
-Compartilhe os seus comprovantes de pagamento com este app para que ele gere o texto sobre o que foi pago e chame o compartilhamento com outras aplicações.
+Após pagar uma conta com seu aplicativo bancário compartilhe o seu comprovante de pagamento com este app para que ele gere o texto sobre o que foi pago e chame o compartilhamento com outras aplicações.
 
-## Getting Started
+Este é um projeto desenvolvido em Flutter.
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tela]([http://url/to/img.png](https://github.com/fabiogia/comprovantes/blob/main/assets/comprovante.png)https://github.com/fabiogia/comprovantes/blob/main/assets/comprovante.png "Tela do Comprovantes")
