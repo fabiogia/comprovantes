@@ -6,4 +6,4 @@ Este é um projeto desenvolvido em Flutter.
 
 # Screenshots
 
-![Tela]([http://url/to/img.png](https://github.com/fabiogia/comprovantes/blob/main/assets/comprovante.png)https://github.com/fabiogia/comprovantes/blob/main/assets/comprovante.png "Tela do Comprovantes")
+![Tela](https://github.com/fabiogia/comprovantes/blob/main/assets/comprovante.png "Tela do Comprovantes")
