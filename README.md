@@ -7,5 +7,5 @@ Este é um projeto desenvolvido em Flutter.
 # Screenshots
 
 <p>
-  <img src="https://github.com/fabiogia/comprovantes/blob/main/assets/comprovante.png" width="250" title="Tela do Comprovantes">
+  <img src="https://github.com/fabiogia/comprovantes/blob/main/assets/images/comprovante.png" width="250" title="Tela do Comprovantes">
 </p>
